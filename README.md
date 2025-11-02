@@ -44,37 +44,37 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=cpp,c,python,js,java,bash&perline=18)
+![](https://skillicons.dev/icons?i=js,java,cpp,c&perline=18)
 
 <h4><b><samp>DevOps</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,googlecloud&perline=18)
+![](https://skillicons.dev/icons?i=git&perline=18)
 
 <h4><b><samp>Frontend</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=html,css,javascript,jquery,bootstrap,react,md&perline=18)
+![](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,react,markdown&perline=18)
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=node.js,,postman,rabbitmq&perline=18)
+![](https://skillicons.dev/icons?i=nodejs,postman,rabbitmq&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?perline=18&i=mysql,mongodb)
-
+![](https://skillicons.dev/icons?i=mysql,mongodb&perline=18)
 
 ##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+<h3><b><samp>Tools and Platforms</samp></b></h3>
 
 <h4><b><samp>Operating Systems and Platforms</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=windows,linux,ubuntu)
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu&perline=18)
 
 <h4><b><samp>IDEs</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=clion,intellijidea,vscode,sublime,anaconda)
+![](https://skillicons.dev/icons?i=clion,idea,vscode,sublime,anaconda&perline=18)
 
-<hr> 
+<hr>
+
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
