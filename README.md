@@ -9,7 +9,6 @@
 <a href="https://www.instagram.com/anish_436">
   <img align="left" alt="anish's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/profile/ANISH1050">
   <img align="left" alt="anish's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
