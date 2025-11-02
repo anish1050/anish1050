@@ -75,7 +75,7 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 
 <h4><b><samp>Tools</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=overleaf&perline=18)
+![](https://skillicons.dev/icons?i=latex&perline=18)
 <hr>
 
 
