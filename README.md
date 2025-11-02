@@ -33,18 +33,11 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 - 👷 <samp><b>Backend Developer Intern @Travelxp</b>
 - 👨‍🎓 <samp><b>B.E in Information Technology(2022-2026) - 7.80 CGPA</b>
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
+- 💬 <samp>Ask me about Full Stack Dev/Restful API's/Database Systems
 - 🤔 <samp>I’m looking for help with how to excel in Optimizing API's and in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - ♟ <samp>I do play chess sometimes
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anish1050&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=anish1050&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
