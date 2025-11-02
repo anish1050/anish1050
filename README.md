@@ -9,19 +9,30 @@ for freelance work? do reach, [email](mailto:kshirsagaranish84@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-
 ```txt
-JavaScript   17 hrs 5 mins   ██████████████▒░░░░░░░░░░   57.29 %
-MongoDB   12 hrs 11 mins  ██████████▒░░░░░░░░░░░░░░   40.85 %
-Postman         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Exploring New Technologies          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript       ██████████▒░░░░░░░░░░░░░░░░░░░░   37.2 %
+MongoDB          ████████▒░░░░░░░░░░░░░░░░░░░░░░   26.6 %
+API Optimization ███████▒░░░░░░░░░░░░░░░░░░░░░░░   20.3 %
+Postman          ███▒░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.2 %
+JSON             █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.7 %
 ```
-
 <!--END_SECTION:waka-->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<div>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👷 <samp><b>Backend Developer Intern @Travelxp</b>
+- 👨‍🎓 <samp><b>B.E in Information Technology(2022-2026) from National Institute of Technology Raipur - 7.80 CGPA</b>
+- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
+- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
+- 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
+- 🤔 <samp>I’m looking for help with how to excel in Optimizing API's and in Competitive Programming
+- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- ♟ <samp>I play chess sometimes
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anish1050&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
