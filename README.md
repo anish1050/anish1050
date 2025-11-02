@@ -78,6 +78,12 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 ![](https://skillicons.dev/icons?i=latex&perline=18)
 <hr>
 
+ ### 🏆 GitHub Profile Trophy:
+ <p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+ </a>
+ </p>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
