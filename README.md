@@ -24,8 +24,6 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 
 - 👷 <samp><b>Backend Developer Intern @Travelxp</b>
 - 👨‍🎓 <samp><b>B.E in Information Technology(2022-2026) from National Institute of Technology Raipur - 7.80 CGPA</b>
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
 - 🤔 <samp>I’m looking for help with how to excel in Optimizing API's and in Competitive Programming
