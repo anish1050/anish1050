@@ -71,7 +71,7 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 
 <h4><b><samp>IDEs</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=clion,idea,vscode,sublime,anaconda&perline=18)
+![](https://skillicons.dev/icons?i=idea,vscode,sublime,anaconda&perline=18)
 
 <hr>
 
