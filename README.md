@@ -56,8 +56,7 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 
 <h4><b><samp>Backend</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=nodejs,postman,expressjs,springboot,hibernate&perline=18)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/>
+![](https://skillicons.dev/icons?i=nodejs,postman,expressjs,hibernate&perline=18)
 
 <h4><b><samp>Database</samp></b></h4>
 
