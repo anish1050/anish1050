@@ -12,7 +12,7 @@
 <a href="https://www.hackerrank.com/profile/ANISH1050">
   <img align="left" alt="anish's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-
+<br><br/>
 for freelance work? do reach, [email](mailto:kshirsagaranish84@gmail.com) :)
 
 📊 **this week i spent my time on:**
