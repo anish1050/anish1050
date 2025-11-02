@@ -28,16 +28,16 @@ JSON             █▒░░░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
-  <br>
-- 👷 <samp><b>Backend Developer Intern @Travelxp</b>
-- 👨‍🎓 <samp><b>B.E in Information Technology(2022-2026) - 7.80 CGPA</b>
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Full Stack Dev/Restful API's/Database Systems
-- 🤔 <samp>I’m looking for help with how to excel in Optimizing API's and in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I do play chess sometimes
+  <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+  <p>👷 <samp><b>Backend Developer Intern @Travelxp</b></samp></p>
+  <p>👨‍🎓 <samp><b>B.E in Information Technology (2022–2026) - 7.80 CGPA</b></samp></p>
+  <p>💼 <samp>I’m looking for <b>Full-Time</b> Opportunities/Roles.</samp></p>
+  <p>💬 <samp>Ask me about Full Stack Dev / RESTful APIs / Database Systems</samp></p>
+  <p>🤔 <samp>I’m looking for help with how to excel in Optimizing APIs and Competitive Programming.</samp></p>
+  <p>⚡ <samp>Fun fact: I’m kinda boring and sometimes dumb — but a determined guy.</samp></p>
+  <p>♟ <samp>I play chess sometimes.</samp></p>
 </div>
+
 
 ##
 <h3><b><samp>Skills</samp></b></h3>
